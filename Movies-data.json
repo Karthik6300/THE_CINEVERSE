@@ -1,0 +1,69 @@
+{
+  "featuredMovies": [
+    {
+      "id": "bahubali1",
+      "title": "Bahubali: The Beginning",
+      "trailerUrl": "https://www.youtube.com/embed/gon3cU1bdnk?si=u_YnpxWUM-d0hvy2",
+      "posterUrl": "https://lh3.googleusercontent.com/proxy/OkRfR8pmZJ4jWd_U9-uC1tpJmmNTZOfr-SDtKRlr2gEL-VToEF-TgssxwpOaZqCm3fEq0lLQtw89WRdoSV6wJfkDI97z4dEOscit8naRmtAUV5z9ko7_DdBOZHQoGzS057P0Eh6HPxCrff2p5J0",
+      "rating": "8.0",
+      "duration": "2h 39m",
+      "releaseDate": "2015-07-10",
+      "director": "S.S. Rajamouli",
+      "cast": ["Prabhas", "Rana Daggubati", "Anushka Shetty", "Tamannaah"],
+      "about": "An epic tale of power, betrayal, and destiny in a mythical kingdom."
+    },
+    {
+      "id": "ninnukori",
+      "title": "Ninnu Kori",
+      "trailerUrl": "https://www.youtube.com/embed/Ia6EXfqKiV4?si=bmqVHDsuIqQmapp0",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDY3YTU0Y2MtYTk0OC00NDc5LTliZWYtODJmM2I1MWI3ZWYxXkEyXkFqcGc@._V1_.jpg",
+      "rating": "7.6",
+      "duration": "2h 17m",
+      "releaseDate": "2017-07-07",
+      "director": "Shiva Nirvana",
+      "cast": ["Nani", "Nivetha Thomas", "Aadhi Pinisetty"],
+      "about": "A soulful romantic drama exploring love, loss, and acceptance."
+    },
+    {
+      "id": "lionking",
+      "title": "The Lion King",
+      "trailerUrl": "https://www.youtube.com/embed/7TavVZMewpY",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Lion_King_2019_poster.jpg",
+      "rating": "6.8",
+      "duration": "1h 58m",
+      "releaseDate": "2019-07-19",
+      "director": "Jon Favreau",
+      "cast": [
+        "Donald Glover",
+        "Beyoncé",
+        "James Earl Jones",
+        "Chiwetel Ejiofor"
+      ],
+      "about": "A visually stunning journey of a lion prince reclaiming his throne."
+    },
+    {
+      "id": "salaar",
+      "title": "Salaar: Part 1 – Ceasefire",
+      "trailerUrl": "https://www.youtube.com/embed/4GPvYMKtrtI?si=pUSB1kUk-8THpl8H",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/e/ee/Salaar_2023_poster.jpg",
+      "rating": "6.5",
+      "duration": "2h 55m",
+      "releaseDate": "2023-12-22",
+      "director": "Prashanth Neel",
+      "cast": ["Prabhas", "Prithviraj Sukumaran", "Shruti Haasan"],
+      "about": "A dark, gritty action saga of a rebel rising against all odds."
+    },
+    {
+      "id": "msdhoni",
+      "title": "M.S. Dhoni: The Untold Story",
+      "trailerUrl": "https://www.youtube.com/embed/6L6XqWoS8tw",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/80/M.S._Dhoni_-_The_Untold_Story_poster.jpg",
+      "rating": "7.9",
+      "duration": "3h 10m",
+      "releaseDate": "2016-09-30",
+      "director": "Neeraj Pandey",
+      "cast": ["Sushant Singh Rajput", "Kiara Advani", "Disha Patani"],
+       "about": "An inspiring biopic tracing the journey of India’s cricketing legend."
+    }
+  ]
+}

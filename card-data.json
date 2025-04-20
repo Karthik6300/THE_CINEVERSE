@@ -1,0 +1,1384 @@
+[
+  {
+    "id": 1,
+    "Title": "Pushpa: The Rise",
+    "Year": "2021",
+    "Rated": "UA",
+    "Released": "17 Dec 2021",
+    "Runtime": "179 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Sukumar",
+    "Writer": "Sukumar, Srikanth Vissa",
+    "Actors": "Allu Arjun, Rashmika Mandanna, Fahadh Faasil",
+    "Plot": "A laborer rises through the ranks of a red sandalwood smuggling syndicate, making enemies in the process.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Won 1 National Award, 10 Filmfare South Awards",
+    "Poster": "https://m.media-amazon.com/images/S/pv-target-images/2844b9fb2959bff43271a6ce5fb2519c16aef711885b08f71b6c1cbffb060ee7.jpg",
+    "Ratings":"7.6/10",
+    "imdbRating": "7.6",
+    "imdbVotes": "125,000",
+    "Type": "movie",
+    "BoxOffice": "$350,000,000",
+    "Production": "Mythri Movie Makers",
+    "Trailer": "https://www.youtube.com/watch?v=Q1NKMPhP8PY"
+  },
+  {
+    "id": 2,
+    "Title": "RRR",
+    "Year": "2022",
+    "Rated": "UA",
+    "Released": "25 Mar 2022",
+    "Runtime": "187 min",
+    "Genre": "Action, Drama",
+    "Director": "S.S. Rajamouli",
+    "Writer": "Vijayendra Prasad, Sai Madhav Burra",
+    "Actors": "N.T. Rama Rao Jr., Ram Charan, Alia Bhatt, Ajay Devgn",
+    "Plot": "A fictional story about two legendary revolutionaries and their fight against the British Raj.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Won 1 Oscar, 8 Filmfare Awards, 1 Golden Globe",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjM3MDE0M2EtZmVlOS00YTUzLTgzMWYtODU0YjZiNWJiZTQyXkEyXkFqcGc@._V1_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      }
+    ],
+    "imdbRating": "8.0",
+    "imdbVotes": "200,000",
+    "Type": "movie",
+    "BoxOffice": "$165,000,000",
+    "Production": "DVV Entertainment",
+    "Trailer": "https://www.youtube.com/watch?v=NgBoMJy386M"
+  },
+  {
+    "id": 3,
+    "Title": "Geetha Govindam",
+    "Year": "2018",
+    "Rated": "UA",
+    "Released": "15 Aug 2018",
+    "Runtime": "142 min",
+    "Genre": "Romance, Comedy",
+    "Director": "Parasuram",
+    "Writer": "Parasuram",
+    "Actors": "Vijay Deverakonda, Rashmika Mandanna",
+    "Plot": "A charming professor tries to woo a woman but ends up in trouble due to a misunderstanding.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Won 6 Filmfare South Awards",
+    "Poster": "https://i.pinimg.com/736x/7a/23/86/7a23865eee886a6972e58abd4394576d.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      }
+    ],
+    "imdbRating": "7.7",
+    "imdbVotes": "45,000",
+    "Type": "movie",
+    "BoxOffice": "$20,000,000",
+    "Production": "GA2 Pictures",
+    "Trailer": "https://www.youtube.com/watch?v=0deFijVhsqM"
+  },
+  {
+    "id": 4,
+    "Title": "Karthikeya 2",
+    "Year": "2022",
+    "Rated": "UA",
+    "Released": "13 Aug 2022",
+    "Runtime": "145 min",
+    "Genre": "Thriller, Mystery",
+    "Director": "Chandoo Mondeti",
+    "Writer": "Chandoo Mondeti",
+    "Actors": "Nikhil Siddharth, Anupama Parameswaran, Anupam Kher",
+    "Plot": "Dr. Karthikeya embarks on a quest to uncover ancient secrets related to Lord Krishna.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://static.toiimg.com/thumb/msid-93584721,width-400,resizemode-4/93584721.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      }
+    ],
+    "imdbRating": "7.9",
+    "imdbVotes": "30,000",
+    "Type": "movie",
+    "BoxOffice": "$12,000,000",
+    "Production": "People Media Factory, Abhishek Agarwal Arts",
+    "Trailer": "https://www.youtube.com/watch?v=JpqLnlmHZiM"
+  },
+  {
+    "id": 5,
+    "Title": "Anando Brahma",
+    "Year": "2017",
+    "Rated": "UA",
+    "Released": "18 Aug 2017",
+    "Runtime": "124 min",
+    "Genre": "Horror, Comedy",
+    "Director": "Mahi V. Raghav",
+    "Writer": "Mahi V. Raghav",
+    "Actors": "Taapsee Pannu, Srinivas Reddy, Vennela Kishore",
+    "Plot": "A group of people must spend a night in a haunted house to prove that ghosts don’t exist.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTVkYzM5ZmYtZWZkNS00ZjFlLWI3NmUtMTNlOGE2ZmUyNmRhXkEyXkFqcGc@._V1_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      }
+    ],
+    "imdbRating": "7.1",
+    "imdbVotes": "10,000",
+    "Type": "movie",
+    "BoxOffice": "$8,000,000",
+    "Production": "V4 Movies",
+    "Trailer": "https://www.youtube.com/watch?v=pPUqU5BgY0A"
+  },
+  {
+    "id": 6,
+    "Title": "Raju Gari Gadhi",
+    "Year": "2015",
+    "Rated": "UA",
+    "Released": "23 Oct 2015",
+    "Runtime": "143 min",
+    "Genre": "Horror, Thriller",
+    "Director": "Ohmkar",
+    "Writer": "Ohmkar",
+    "Actors": "Ashwin Babu, Dhanya Balakrishna, Chethan Cheenu",
+    "Plot": "A group of friends participate in a reality show set in a haunted house, where supernatural events start unfolding.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEfI4pgCQwTWVqI3lQRHMnyUScirmvZnhphEuz-uEsdPU_7vk7Q&s=10&ec=72940544",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      }
+    ],
+    "imdbRating": "6.1",
+    "imdbVotes": "5,000",
+    "Type": "movie",
+    "BoxOffice": "$3,500,000",
+    "Production": "OAK Entertainments",
+    "Trailer": "https://www.youtube.com/watch?v=ejZFK_4WSeM"
+  },
+  {
+    "id": 7,
+    "Title": "Kanchana",
+    "Year": "2011",
+    "Rated": "UA",
+    "Released": "22 Jul 2011",
+    "Runtime": "170 min",
+    "Genre": "Horror, Comedy",
+    "Director": "Raghava Lawrence",
+    "Writer": "Raghava Lawrence",
+    "Actors": "Raghava Lawrence, Sarath Kumar, Lakshmi Rai, Kovai Sarala",
+    "Plot": "A cowardly man gets possessed by the spirit of a transgender woman seeking revenge.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Won SIIMA Award for Best Horror Film",
+    "Poster": "https://sund-images.sunnxt.com/7247/1000x1500_07ab48db-5030-4cb9-bef2-12e6fcbe4f27.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      }
+    ],
+    "imdbRating": "6.4",
+    "imdbVotes": "9,000",
+    "Type": "movie",
+    "BoxOffice": "$10,000,000",
+    "Production": "Sri Thenandal Films",
+    "Trailer": "https://www.youtube.com/watch?v=HBCxg07Oq1s"
+  },
+  {
+    "id": 8,
+    "Title": "Avunu",
+    "Year": "2012",
+    "Rated": "UA",
+    "Released": "21 Sep 2012",
+    "Runtime": "90 min",
+    "Genre": "Horror, Thriller",
+    "Director": "Ravi Babu",
+    "Writer": "Ravi Babu",
+    "Actors": "Harshvardhan Rane, Poorna, Ravi Babu",
+    "Plot": "A newlywed couple moves into a house, unaware that a malevolent spirit haunts it.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://i.pinimg.com/736x/d7/f5/53/d7f553ed6618a3d21be7665e23cfd00d.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      }
+    ],
+    "imdbRating": "6.3",
+    "imdbVotes": "4,500",
+    "Type": "movie",
+    "BoxOffice": "$2,800,000",
+    "Production": "Flying Frogs Productions",
+    "Trailer": "https://www.youtube.com/watch?v=Z5U6aXk_WyQ"
+  },
+  {
+    "id": 9,
+    "Title": "HIT: The First Case",
+    "Year": "2020",
+    "Rated": "UA",
+    "Released": "28 Feb 2020",
+    "Runtime": "125 min",
+    "Genre": "Crime, Thriller, Mystery",
+    "Director": "Sailesh Kolanu",
+    "Writer": "Sailesh Kolanu",
+    "Actors": "Vishwak Sen, Ruhani Sharma, Murli Sharma",
+    "Plot": "A police officer battling PTSD takes on the case of a missing woman, leading him into a dangerous conspiracy.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4VbF-hZgSfbpAgl_a8V6d_ubmi7JPAdCMVroN7SqRHw&s&ec=72940544",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      }
+    ],
+    "imdbRating": "7.7",
+    "imdbVotes": "8,500",
+    "Type": "movie",
+    "BoxOffice": "$4,000,000",
+    "Production": "Wall Poster Cinema",
+    "Trailer": "https://www.youtube.com/watch?v=67gM6zbd9FY"
+  },
+  {
+    "id": 10,
+    "Title": "Goodachari",
+    "Year": "2018",
+    "Rated": "UA",
+    "Released": "03 Aug 2018",
+    "Runtime": "147 min",
+    "Genre": "Action, Thriller",
+    "Director": "Sashi Kiran Tikka",
+    "Writer": "Adivi Sesh, Abburi Ravi",
+    "Actors": "Adivi Sesh, Sobhita Dhulipala, Jagapathi Babu",
+    "Plot": "A rookie spy gets framed for a terrorist attack and must clear his name while uncovering secrets from his past.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "SIIMA Award for Best Film",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzI0NTdhMmUtODRjMy00MTY5LWFkNjAtNTM2MWI4MjRjYzZiXkEyXkFqcGc@._V1_.jpg",
+    "Ratings": "7.9/10"
+    ,
+    "imdbRating": "7.9",
+    "imdbVotes": "12,000",
+    "Type": "movie",
+    "BoxOffice": "$6,500,000",
+    "Production": "Abhishek Pictures",
+    "Trailer": "https://www.youtube.com/watch?v=hzGUYWE2lqU"
+  },
+  {
+    "id": 11,
+    "Title": "Evaru",
+    "Year": "2019",
+    "Rated": "UA",
+    "Released": "15 Aug 2019",
+    "Runtime": "118 min",
+    "Genre": "Thriller, Mystery, Crime",
+    "Director": "Venkat Ramji",
+    "Writer": "Venkat Ramji",
+    "Actors": "Adivi Sesh, Regina Cassandra, Naveen Chandra",
+    "Plot": "A corrupt cop investigates a murder case where the prime suspect has her own dark secrets.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGUzNDdmYjItOWRhYS00YTlmLTgwMWYtMWRmODc0ODNlZWZjXkEyXkFqcGc@._V1_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      }
+    ],
+    "imdbRating": "8.1",
+    "imdbVotes": "14,500",
+    "Type": "movie",
+    "BoxOffice": "$5,500,000",
+    "Production": "PVP Cinema",
+    "Trailer": "https://www.youtube.com/watch?v=URn3eJq-2QU"
+  },
+  {
+    "id": 12,
+    "Title": "Drushyam",
+    "Year": "2014",
+    "Rated": "UA",
+    "Released": "11 Jul 2014",
+    "Runtime": "150 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Sripriya",
+    "Writer": "Jeethu Joseph",
+    "Actors": "Venkatesh Daggubati, Meena, Nadhiya",
+    "Plot": "A simple family man goes to great lengths to protect his family when they become suspects in a crime.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Nandi Award for Best Film",
+    "Poster": "https://metadata-static.plex.tv/0/gracenote/0235fd4f18f96f1577f90372448748f3.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      }
+    ],
+    "imdbRating": "8.2",
+    "imdbVotes": "15,000",
+    "Type": "movie",
+    "BoxOffice": "$7,000,000",
+    "Production": "Suresh Productions",
+    "Trailer": "https://www.youtube.com/watch?v=6rtX2Sx2x94"
+  },
+  {
+    "id": 13,
+    "Title": "Arjun Reddy",
+    "Year": "2017",
+    "Rated": "A",
+    "Released": "25 Aug 2017",
+    "Runtime": "186 min",
+    "Genre": "Drama, Romance",
+    "Director": "Sandeep Reddy Vanga",
+    "Writer": "Sandeep Reddy Vanga",
+    "Actors": "Vijay Deverakonda, Shalini Pandey, Jia Sharma",
+    "Plot": "A short-tempered but brilliant surgeon spirals into self-destruction after his girlfriend is forced to marry someone else.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Filmfare Award for Best Film - Telugu",
+    "Poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiYBnPEy85HEyiuyjiLYjcZAED-9hazcDMpyt-DS0DvGAW6oanrpTNSDIp2cw53SLe6mX34gpAD_uioHLHZntyYfLwW9Kte3Wxvz9ENfZfsHzM9iOAL2Pr-JkGdQ7O6bILIF6_nF2ivg/s1600/arjun_reddy_movie_first_look_poster.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      }
+    ],
+    "imdbRating": "8.0",
+    "imdbVotes": "27,500",
+    "Type": "movie",
+    "BoxOffice": "$9,000,000",
+    "Production": "Bhadrakali Pictures",
+    "Trailer": "https://www.youtube.com/watch?v=0N4sLqFhFfI"
+  },
+  {
+    "id": 14,
+    "Title": "Ye Maaya Chesave",
+    "Year": "2010",
+    "Rated": "UA",
+    "Released": "26 Feb 2010",
+    "Runtime": "162 min",
+    "Genre": "Drama, Romance",
+    "Director": "Gautham Vasudev Menon",
+    "Writer": "Gautham Vasudev Menon, Umarji Anuradha",
+    "Actors": "Naga Chaitanya Akkineni, Samantha Ruth Prabhu, Krishnudu",
+    "Plot": "A filmmaker falls in love with a Christian girl but must fight religious and family opposition to be with her.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Nandi Award for Best Cinematography",
+    "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWc9m25uAS3C_oEB84_rKtnax4tWCcKhnYB6CzY4Wp-w&s&ec=72940544",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      }
+    ],
+    "imdbRating": "7.7",
+    "imdbVotes": "16,000",
+    "Type": "movie",
+    "BoxOffice": "$5,000,000",
+    "Production": "Indira Productions",
+    "Trailer": "https://www.youtube.com/watch?v=U0JScyO4a3E"
+  },
+  {
+    "id": 15,
+    "Title": "Ninnu Kori",
+    "Year": "2017",
+    "Rated": "UA",
+    "Released": "07 Jul 2017",
+    "Runtime": "135 min",
+    "Genre": "Drama, Romance",
+    "Director": "Shiva Nirvana",
+    "Writer": "Shiva Nirvana, Kona Venkat",
+    "Actors": "Nani, Nivetha Thomas, Aadhi Pinisetty",
+    "Plot": "A man struggles with heartbreak when the woman he loves marries another man, leading to unexpected consequences.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://play-lh.googleusercontent.com/oQxl3qEYV-aNwDUPPotxf04VR3uUeeEPk3vBTuVnOM2_MGzr6Cg2PI0AOGdL4bB70FaXXA",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      }
+    ],
+    "imdbRating": "7.5",
+    "imdbVotes": "10,500",
+    "Type": "movie",
+    "BoxOffice": "$4,500,000",
+    "Production": "DVV Entertainments",
+    "Trailer": "https://www.youtube.com/watch?v=XJrRrMCEmpo"
+  },
+  {
+    "id": 16,
+    "Title": "Ala Vaikunthapurramuloo",
+    "Year": "2020",
+    "Rated": "UA",
+    "Released": "12 Jan 2020",
+    "Runtime": "163 min",
+    "Genre": "Action, Drama, Comedy",
+    "Director": "Trivikram Srinivas",
+    "Writer": "Trivikram Srinivas",
+    "Actors": "Allu Arjun, Pooja Hegde, Tabu",
+    "Plot": "A man raised in a middle-class family discovers his true heritage and sets out to reclaim his rightful place.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "SIIMA Award for Best Film - Telugu",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/2/28/Ala_Vaikunthapurramuloo.jpeg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      }
+    ],
+    "imdbRating": "7.3",
+    "imdbVotes": "22,000",
+    "Type": "movie",
+    "BoxOffice": "$13,000,000",
+    "Production": "Geetha Arts, Haarika & Hassine Creations",
+    "Trailer": "https://www.youtube.com/watch?v=U3tFAojqXoA"
+  },
+  {
+    "id": 17,
+    "Title": "Jathi Ratnalu",
+    "Year": "2021",
+    "Rated": "UA",
+    "Released": "11 Mar 2021",
+    "Runtime": "145 min",
+    "Genre": "Comedy",
+    "Director": "Anudeep K.V.",
+    "Writer": "Anudeep K.V.",
+    "Actors": "Naveen Polishetty, Priyadarshi Pulikonda, Rahul Ramakrishna",
+    "Plot": "Three happy-go-lucky men move to the city in search of a better life but get caught up in a crime they didn't commit.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://i.scdn.co/image/ab67616d0000b2731acf534e706b97c896f80a5f",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      }
+    ],
+    "imdbRating": "7.3",
+    "imdbVotes": "15,000",
+    "Type": "movie",
+    "BoxOffice": "$5,000,000",
+    "Production": "Swapna Cinema",
+    "Trailer": "https://www.youtube.com/watch?v=h8aQzqhHBko"
+  },
+  {
+    "id": 18,
+    "Title": "F2: Fun and Frustration",
+    "Year": "2019",
+    "Rated": "UA",
+    "Released": "12 Jan 2019",
+    "Runtime": "148 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Anil Ravipudi",
+    "Writer": "Anil Ravipudi",
+    "Actors": "Venkatesh Daggubati, Varun Tej, Tamannaah Bhatia, Mehreen Pirzada",
+    "Plot": "After their marriages, two men realize that their lives have become frustrating due to their wives' antics, leading to humorous situations.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "SIIMA Award for Best Film - Telugu",
+    "Poster": "https://m.media-amazon.com/images/S/pv-target-images/4863d7451e556ecc295eb5a3f6d1dff40822d518f4694ee9795cd3f599e574c9.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      }
+    ],
+    "imdbRating": "6.2",
+    "imdbVotes": "7,500",
+    "Type": "movie",
+    "BoxOffice": "$12,000,000",
+    "Production": "Sri Venkateswara Creations",
+    "Trailer": "https://www.youtube.com/watch?v=6KyaR8qrbnI"
+  },
+  {
+    "id": 19,
+    "Title": "Ante Sundaraniki",
+    "Year": "2022",
+    "Rated": "UA",
+    "Released": "10 Jun 2022",
+    "Runtime": "173 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Vivek Athreya",
+    "Writer": "Vivek Athreya",
+    "Actors": "Nani, Nazriya Nazim, Harsha Vardhan",
+    "Plot": "A man from a strict Hindu family falls in love with a Christian woman and devises a complex plan to win over their families.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/2/2d/Ante_Sundaraniki_poster.jpeg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      }
+    ],
+    "imdbRating": "7.6",
+    "imdbVotes": "12,000",
+    "Type": "movie",
+    "BoxOffice": "$3,500,000",
+    "Production": "Mythri Movie Makers",
+    "Trailer": "https://www.youtube.com/watch?v=8qCf5iWueBc"
+  },
+  {
+    "id": 20,
+    "Title": "Bhale Bhale Magadivoy",
+    "Year": "2015",
+    "Rated": "UA",
+    "Released": "04 Sep 2015",
+    "Runtime": "144 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Maruthi Dasari",
+    "Writer": "Maruthi Dasari",
+    "Actors": "Nani, Lavanya Tripathi, Murali Sharma",
+    "Plot": "A forgetful scientist falls in love but struggles to hide his short-term memory issues while wooing his love interest.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Nandi Award for Best Popular Feature Film",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGIxYjgwODYtNjNlZi00ZTkwLWExY2UtZWE0MTEzMDkwYTNhXkEyXkFqcGc@._V1_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      }
+    ],
+    "imdbRating": "7.7",
+    "imdbVotes": "11,000",
+    "Type": "movie",
+    "BoxOffice": "$6,500,000",
+    "Production": "GA2 Pictures",
+    "Trailer": "https://www.youtube.com/watch?v=a1V7TqZ3w1M"
+  },
+  {
+    "id": 21,
+    "Title": "Venky",
+    "Year": "2004",
+    "Rated": "UA",
+    "Released": "26 Mar 2004",
+    "Runtime": "152 min",
+    "Genre": "Comedy, Action",
+    "Director": "Srinu Vaitla",
+    "Writer": "Srinu Vaitla, Kona Venkat, Gopimohan",
+    "Actors": "Ravi Teja, Sneha, Ashutosh Rana",
+    "Plot": "A fun-loving man accidentally gets recruited into the police force and must navigate dangerous situations while maintaining his humor.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/S/pv-target-images/ff70153bcc7e1a53087d26f6e37c6f7b4868751e5e612ff03bf436b3485ab87e.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      }
+    ],
+    "imdbRating": "7.8",
+    "imdbVotes": "6,500",
+    "Type": "movie",
+    "BoxOffice": "$2,500,000",
+    "Production": "Suresh Productions",
+    "Trailer": "https://www.youtube.com/watch?v=Nf1aAUbflAo"
+  },
+  {
+    "id": 22,
+    "Title": "Sarkaru Vaari Paata",
+    "Year": "2022",
+    "Rated": "UA",
+    "Released": "12 May 2022",
+    "Runtime": "162 min",
+    "Genre": "Action, Drama",
+    "Director": "Parasuram",
+    "Writer": "Parasuram",
+    "Actors": "Mahesh Babu, Keerthy Suresh, Vennela Kishore",
+    "Plot": "A financier from the USA comes to India for loan recovery and gets entangled in a political and financial conspiracy.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://img.studioflicks.com/wp-content/uploads/2022/03/09010837/Sarkaru-Vaari-Paata-Release-Date-Poster-3.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.0/10"
+      }
+    ],
+    "imdbRating": "6.0",
+    "imdbVotes": "12,000",
+    "Type": "movie",
+    "BoxOffice": "$10,000,000",
+    "Production": "Mythri Movie Makers",
+    "Trailer": "https://www.youtube.com/watch?v=9e8jXrwOGJY"
+  },
+  {
+    "id": 23,
+    "Title": "Salaar",
+    "Year": "2023",
+    "Rated": "UA",
+    "Released": "22 Dec 2023",
+    "Runtime": "175 min",
+    "Genre": "Action, Thriller",
+    "Director": "Prashanth Neel",
+    "Writer": "Prashanth Neel",
+    "Actors": "Prabhas, Shruti Haasan, Prithviraj Sukumaran",
+    "Plot": "A powerful leader in the criminal underworld fights to keep his empire intact while facing intense rivalries and betrayals.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTU0ZjYxOWItOWViMC00YWVlLWJlMGUtZjc1YWU0NTlhY2ZhXkEyXkFqcGc@._V1_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "N/A"
+      }
+    ],
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Hombale Films",
+    "Trailer": "https://www.youtube.com/watch?v=QcVZgA17QEk"
+  },
+  {
+    "id": 24,
+    "Title": "Bheemla Nayak",
+    "Year": "2022",
+    "Rated": "UA",
+    "Released": "25 Feb 2022",
+    "Runtime": "145 min",
+    "Genre": "Action, Drama",
+    "Director": "Saagar K Chandra",
+    "Writer": "Trivikram Srinivas",
+    "Actors": "Pawan Kalyan, Rana Daggubati, Nithya Menen",
+    "Plot": "A sincere cop clashes with a powerful politician’s son, leading to a high-octane battle between law and power.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/b/bb/Bheemla_Nayak.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      }
+    ],
+    "imdbRating": "7.3",
+    "imdbVotes": "10,000",
+    "Type": "movie",
+    "BoxOffice": "$8,000,000",
+    "Production": "Sithara Entertainments",
+    "Trailer": "https://www.youtube.com/watch?v=GVe5aHJZuG0"
+  },
+  {
+    "id": 25,
+    "Title": "Akhanda",
+    "Year": "2021",
+    "Rated": "UA",
+    "Released": "02 Dec 2021",
+    "Runtime": "167 min",
+    "Genre": "Action, Drama, Fantasy",
+    "Director": "Boyapati Srinu",
+    "Writer": "Boyapati Srinu",
+    "Actors": "Nandamuri Balakrishna, Pragya Jaiswal, Jagapathi Babu",
+    "Plot": "A fierce devotee of Lord Shiva takes on corrupt forces to restore peace and justice in his land.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://media5.bollywoodhungama.in/wp-content/uploads/2023/01/Akhanda.jpeg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      }
+    ],
+    "imdbRating": "6.9",
+    "imdbVotes": "9,000",
+    "Type": "movie",
+    "BoxOffice": "$7,500,000",
+    "Production": "Dwaraka Creations",
+    "Trailer": "https://www.youtube.com/watch?v=vV05NC5LfoE"
+  },
+  {
+    "id": 26,
+    "Title": "Sye",
+    "Year": "2004",
+    "Rated": "UA",
+    "Released": "23 Sep 2004",
+    "Runtime": "174 min",
+    "Genre": "Action, Drama, Sports",
+    "Director": "S.S. Rajamouli",
+    "Writer": "S.S. Rajamouli",
+    "Actors": "Nithiin, Genelia D'Souza, Shashank",
+    "Plot": "Two rival college rugby teams must come together to fight against a local gangster who threatens their campus.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Nandi Award for Best Popular Feature Film",
+    "Poster": "https://images.jdmagicbox.com/comp/jd_social/news/2018jul17/image-82396-h977y05tbo.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      }
+    ],
+    "imdbRating": "7.6",
+    "imdbVotes": "6,800",
+    "Type": "movie",
+    "BoxOffice": "$2,000,000",
+    "Production": "Sri Bharathi Enterprises",
+    "Trailer": "https://www.youtube.com/watch?v=wX82x54e6DU"
+  },
+  {
+    "id": 27,
+    "Title": "Baahubali: The Beginning",
+    "Year": "2015",
+    "Rated": "UA",
+    "Released": "10 Jul 2015",
+    "Runtime": "159 min",
+    "Genre": "Action, Drama",
+    "Director": "S.S. Rajamouli",
+    "Writer": "Vijayendra Prasad, S.S. Rajamouli",
+    "Actors": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia",
+    "Plot": "A young man discovers his royal heritage and embarks on a journey to reclaim his rightful throne in the ancient kingdom of Mahishmati.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "National Film Award for Best Feature Film",
+    "Poster": "https://play-lh.googleusercontent.com/JOvpT3EJgr5JJxH_2m-X5CpPk-q5pmvIC49u6LadbwwMrd-_6bNZHmDO3dBfpH9bgYVoyw",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      }
+    ],
+    "imdbRating": "8.0",
+    "imdbVotes": "100,000",
+    "Type": "movie",
+    "BoxOffice": "$100,000,000",
+    "Production": "Arka Media Works",
+    "Trailer": "https://www.youtube.com/watch?v=sOEg_YZQsTI"
+  },
+  {
+    "id": 28,
+    "Title": "Baahubali 2: The Conclusion",
+    "Year": "2017",
+    "Rated": "UA",
+    "Released": "28 Apr 2017",
+    "Runtime": "167 min",
+    "Genre": "Action, Drama",
+    "Director": "S.S. Rajamouli",
+    "Writer": "Vijayendra Prasad, S.S. Rajamouli",
+    "Actors": "Prabhas, Rana Daggubati, Anushka Shetty, Tamannaah Bhatia",
+    "Plot": "Shiva, the son of Bahubali, learns about his father's past and prepares himself to face his legacy and avenge his father’s death.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "National Film Award for Best Popular Film",
+    "Poster": "https://m.media-amazon.com/images/I/71i8a-PnChL._AC_UF1000,1000_QL80_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      }
+    ],
+    "imdbRating": "8.2",
+    "imdbVotes": "150,000",
+    "Type": "movie",
+    "BoxOffice": "$250,000,000",
+    "Production": "Arka Media Works",
+    "Trailer": "https://www.youtube.com/watch?v=qD-6d8Wo3do"
+  },
+  {
+    "id": 29,
+    "Title": "Adipurush",
+    "Year": "2023",
+    "Rated": "UA",
+    "Released": "16 Jun 2023",
+    "Runtime": "179 min",
+    "Genre": "Action, Drama, Mythology",
+    "Director": "Om Raut",
+    "Writer": "Om Raut",
+    "Actors": "Prabhas, Saif Ali Khan, Kriti Sanon",
+    "Plot": "A modern adaptation of the Indian epic Ramayana, focusing on the journey of Lord Rama to rescue Sita from the demon king Ravana.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://th-i.thgim.com/public/entertainment/movies/wahbbh/article65954540.ece/alternates/FREE_1200/adipurush.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "3.2/10"
+      }
+    ],
+    "imdbRating": "3.2",
+    "imdbVotes": "50,000",
+    "Type": "movie",
+    "BoxOffice": "$30,000,000",
+    "Production": "T-Series Films, Retrophiles",
+    "Trailer": "https://www.youtube.com/watch?v=hvO5DqZ6i_4"
+  },
+  {
+    "id": 30,
+    "Title": "Saaho",
+    "Year": "2019",
+    "Rated": "UA",
+    "Released": "30 Aug 2019",
+    "Runtime": "170 min",
+    "Genre": "Action, Thriller",
+    "Director": "Sujeeth",
+    "Writer": "Sujeeth",
+    "Actors": "Prabhas, Shraddha Kapoor, Jackie Shroff",
+    "Plot": "An undercover cop sets out to investigate a massive heist, only to uncover a much deeper conspiracy within the crime underworld.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://www.koimoi.com/wp-content/new-galleries/2019/02/saaho-movie-1.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      }
+    ],
+    "imdbRating": "5.9",
+    "imdbVotes": "40,000",
+    "Type": "movie",
+    "BoxOffice": "$50,000,000",
+    "Production": "UV Creations",
+    "Trailer": "https://www.youtube.com/watch?v=PGQTlD0mkeI"
+  },
+  {
+    "id": 31,
+    "Title": "Mirchi",
+    "Year": "2013",
+    "Rated": "UA",
+    "Released": "08 Feb 2013",
+    "Runtime": "155 min",
+    "Genre": "Action, Drama, Romance",
+    "Director": "Koratala Siva",
+    "Writer": "Koratala Siva",
+    "Actors": "Prabhas, Anushka Shetty, Richa Gangopadhyay",
+    "Plot": "Jai, an architect living abroad, returns to India to bring peace to two rival villages while dealing with his own past.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Nandi Award for Best Feature Film",
+    "Poster": "https://m.media-amazon.com/images/S/pv-target-images/4f21c565b89102bc8c7e43edc017afb64321802949c052ca76a997f19a2b0ca5.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      }
+    ],
+    "imdbRating": "7.3",
+    "imdbVotes": "20,000",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "UV Creations",
+    "Trailer": "https://www.youtube.com/watch?v=8PYB2rTzPbg"
+  },
+  {
+    "id": 32,
+    "Title": "Darling",
+    "Year": "2010",
+    "Rated": "UA",
+    "Released": "23 Apr 2010",
+    "Runtime": "153 min",
+    "Genre": "Romance, Comedy, Drama",
+    "Director": "A. Karunakaran",
+    "Writer": "A. Karunakaran",
+    "Actors": "Prabhas, Kajal Aggarwal, Prabhu",
+    "Plot": "A young man reunites with his childhood sweetheart but must overcome obstacles to win her love.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "CineMAA Award for Best Actor",
+    "Poster": "https://hemanthkdk.wordpress.com/wp-content/uploads/2010/04/00front.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      }
+    ],
+    "imdbRating": "7.2",
+    "imdbVotes": "15,000",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Sri Venkateswara Cine Chitra",
+    "Trailer": "https://www.youtube.com/watch?v=QajPCpT8h2I"
+  },
+  {
+    "id": 33,
+    "Title": "Mr. Perfect",
+    "Year": "2011",
+    "Rated": "UA",
+    "Released": "22 Apr 2011",
+    "Runtime": "145 min",
+    "Genre": "Romance, Comedy, Drama",
+    "Director": "Dasaradh",
+    "Writer": "Dasaradh",
+    "Actors": "Prabhas, Kajal Aggarwal, Taapsee Pannu",
+    "Plot": "A career-focused man learns the importance of relationships when he is forced to choose between love and ambition.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Nandi Award for Best Home-viewing Feature Film",
+    "Poster": "https://preview.redd.it/eiiyt22y6l691.jpg?width=1080&crop=smart&auto=webp&s=de16421843ffb65733b69020baa35982e6df18fa",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      }
+    ],
+    "imdbRating": "7.2",
+    "imdbVotes": "18,000",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Sri Venkateswara Creations",
+    "Trailer": "https://www.youtube.com/watch?v=bopLm7IL3Bk"
+  },
+  {
+    "id": 34,
+    "Title": "Chatrapathi",
+    "Year": "2005",
+    "Rated": "UA",
+    "Released": "30 Sep 2005",
+    "Runtime": "162 min",
+    "Genre": "Action, Drama",
+    "Director": "S.S. Rajamouli",
+    "Writer": "Vijayendra Prasad, S.S. Rajamouli",
+    "Actors": "Prabhas, Shriya Saran, Bhanupriya",
+    "Plot": "A refugee rises to power and fights against oppression to protect his people from tyranny.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/chatrapathi-et00322950-15-02-2022-02-33-14.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      }
+    ],
+    "imdbRating": "7.6",
+    "imdbVotes": "25,000",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Sri Venkateswara Cine Chitra",
+    "Trailer": "https://www.youtube.com/watch?v=ruWzEecVQBI"
+  },
+  {
+    "id": 35,
+    "Title": "Varsham",
+    "Year": "2004",
+    "Rated": "UA",
+    "Released": "14 Jan 2004",
+    "Runtime": "159 min",
+    "Genre": "Action, Drama, Romance",
+    "Director": "Sobhan",
+    "Writer": "Sobhan, M. S. Raju",
+    "Actors": "Prabhas, Trisha Krishnan, Gopichand",
+    "Plot": "Two lovers are torn apart by a ruthless antagonist who lusts after the heroine and will stop at nothing to win her over.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Nandi Award for Best Popular Feature Film",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTgzZTAyODYtZTM0MC00MmIyLThkOTYtZGMxYzMwODQzN2E1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.6/10"
+      }
+    ],
+    "imdbRating": "7.6",
+    "imdbVotes": "18,000",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Sri Venkateswara Creations",
+    "Trailer": "https://www.youtube.com/watch?v=CCmZJNEjJWg"
+  },
+  {
+    "id": 36,
+    "Title": "Kalki 2898 AD",
+    "Year": "2024",
+    "Rated": "N/A",
+    "Released": "12 May 2024",
+    "Runtime": "N/A",
+    "Genre": "Sci-Fi, Action, Fantasy",
+    "Director": "Nag Ashwin",
+    "Writer": "Nag Ashwin",
+    "Actors": "Prabhas, Deepika Padukone, Amitabh Bachchan, Kamal Haasan",
+    "Plot": "A futuristic sci-fi thriller set in the year 2898 AD, inspired by the Hindu mythology of Kalki Avatar.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Ratings": [],
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Vyjayanthi Movies",
+    "Trailer": "https://www.youtube.com/watch?v=QrtY7OnVlw8"
+  },
+  {
+    "id": 37,
+    "Title": "Gentleman",
+    "Year": "2016",
+    "Rated": "UA",
+    "Released": "17 Jun 2016",
+    "Runtime": "144 min",
+    "Genre": "Thriller, Action, Romance",
+    "Director": "Mohan Krishna Indraganti",
+    "Writer": "R. David Nathan",
+    "Actors": "Nani, Surabhi, Niveda Thomas",
+    "Plot": "A woman falls in love with a man who has a mysterious past, leading to an intense thriller of love, betrayal, and revenge.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Nandi Award for Best Popular Feature Film",
+    "Poster": "https://images.jdmagicbox.com/comp/jd_social/news/2018aug09/image-245154-z0mabgl8vk.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      }
+    ],
+    "imdbRating": "7.7",
+    "imdbVotes": "8,000",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Sridevi Movies",
+    "Trailer": "https://www.youtube.com/watch?v=zNfZQXxVF9s"
+  },
+  {
+    "id": 38,
+    "Title": "Jai Lava Kusa",
+    "Year": "2017",
+    "Rated": "UA",
+    "Released": "21 Sep 2017",
+    "Runtime": "150 min",
+    "Genre": "Action, Drama",
+    "Director": "K.S. Ravindra (Bobby)",
+    "Writer": "K.S. Ravindra (Bobby), Kona Venkat, K. Chakravarthy Reddy",
+    "Actors": "Jr. NTR, Raashi Khanna, Nivetha Thomas",
+    "Plot": "Three identical brothers lead different lives but find their destinies intertwined due to unexpected circumstances.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "Filmfare Award for Best Actor – Telugu",
+    "Poster": "https://content.tupaki.com/twdata/2017/0417/news/Nivetha-officially-on-board-for-NTR27-1491982495-1543.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      }
+    ],
+    "imdbRating": "7.2",
+    "imdbVotes": "10,000",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "NTR Arts",
+    "Trailer": "https://www.youtube.com/watch?v=4RbgW_kywBs"
+  },
+  {
+    "id": 39,
+    "Title": "118",
+    "Year": "2019",
+    "Rated": "UA",
+    "Released": "01 Mar 2019",
+    "Runtime": "126 min",
+    "Genre": "Action, Thriller",
+    "Director": "K.V. Guhan",
+    "Writer": "K.V. Guhan, B.S.S. Ravindra",
+    "Actors": "Nandamuri Kalyan Ram, Shalini Pandey, Nivetha Thomas",
+    "Plot": "A journalist experiences a series of disturbing dreams about a mysterious woman and investigates whether they hold any truth.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://im.jdmagicbox.com/comp/jd_social/news/2019aug17/image-461240-irdf8gl7mp.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      }
+    ],
+    "imdbRating": "7.4",
+    "imdbVotes": "6,000",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "East Coast Productions",
+    "Trailer": "https://www.youtube.com/watch?v=1H01hc6ICCo"
+  },
+  {
+    "id": 40,
+    "Title": "Brochevarevarura",
+    "Year": "2019",
+    "Rated": "UA",
+    "Released": "28 Jun 2019",
+    "Runtime": "138 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "Vivek Athreya",
+    "Writer": "Vivek Athreya",
+    "Actors": "Sree Vishnu, Nivetha Thomas, Priyadarshi Pulikonda",
+    "Plot": "A hilarious crime comedy about three carefree students and a struggling director who become entangled in an unexpected kidnapping case.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/6/68/Brochevarevarura_poster.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      }
+    ],
+    "imdbRating": "8.0",
+    "imdbVotes": "7,500",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Vijay Kumar Manyam",
+    "Trailer": "https://www.youtube.com/watch?v=2mR9UanA9DY"
+  },
+  {
+    "id": 41,
+    "Title": "Darbar",
+    "Year": "2020",
+    "Rated": "UA",
+    "Released": "09 Jan 2020",
+    "Runtime": "159 min",
+    "Genre": "Action, Thriller",
+    "Director": "A.R. Murugadoss",
+    "Writer": "A.R. Murugadoss",
+    "Actors": "Rajinikanth, Nayanthara, Nivetha Thomas, Suniel Shetty",
+    "Plot": "A ruthless Mumbai cop sets out to eliminate the drug mafia but faces unexpected challenges and betrayal.",
+    "Language": "Telugu, Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjY0MzJmMjUtMTcyOS00MWRjLWJjNjAtODE1NWU4MTE3YTk4XkEyXkFqcGc@._V1_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.0/10"
+      }
+    ],
+    "imdbRating": "6.0",
+    "imdbVotes": "12,000",
+    "Type": "movie",
+    "BoxOffice": "₹250 crore",
+    "Production": "Lyca Productions",
+    "Trailer": "https://www.youtube.com/watch?v=yGXMhfHhRdo"
+  },
+  {
+    "id": 42,
+    "Title": "V",
+    "Year": "2020",
+    "Rated": "UA",
+    "Released": "05 Sep 2020",
+    "Runtime": "140 min",
+    "Genre": "Action, Thriller",
+    "Director": "Mohana Krishna Indraganti",
+    "Writer": "Mohana Krishna Indraganti, Naveen Nooli",
+    "Actors": "Nani, Sudheer Babu Posani, Nivetha Thomas, Aditi Rao Hydari",
+    "Plot": "A decorated police officer is challenged by a mysterious serial killer who leaves clues behind after each murder.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://th-i.thgim.com/public/entertainment/movies/cdzd7q/article30673952.ece/alternates/FREE_1200/Nani-V",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      }
+    ],
+    "imdbRating": "6.8",
+    "imdbVotes": "8,000",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Sri Venkateswara Creations",
+    "Trailer": "https://www.youtube.com/watch?v=3kGZqOYBZJk"
+  },
+  {
+    "id": 43,
+    "Title": "Putham Pudhu Kaalai",
+    "Year": "2020",
+    "Rated": "UA",
+    "Released": "16 Oct 2020",
+    "Runtime": "152 min",
+    "Genre": "Drama, Anthology",
+    "Director": "Sudha Kongara, Gautham Vasudev Menon, Suhasini Maniratnam, Rajiv Menon, Karthik Subbaraj",
+    "Writer": "N/A",
+    "Actors": "Jayaram, Kalidas Jayaram, Urvashi, Kalyani Priyadarshan",
+    "Plot": "An anthology of five different stories about love, hope, and new beginnings, set during the COVID-19 lockdown.",
+    "Language": "Tamil",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzEwMWY1NzMtZGFmZC00YmNkLThkM2EtZTM1MWUyMTIzMzEzXkEyXkFqcGc@._V1_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      }
+    ],
+    "imdbRating": "7.2",
+    "imdbVotes": "4,500",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Amazon Prime Video",
+    "Trailer": "https://www.youtube.com/watch?v=6N7FqN3pT4g"
+  },
+  {
+    "id": 44,
+    "Title": "Vakeel Saab",
+    "Year": "2021",
+    "Rated": "UA",
+    "Released": "09 Apr 2021",
+    "Runtime": "153 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Venu Sriram",
+    "Writer": "Shoojit Sircar, Aniruddha Roy Chowdhury, Ritesh Shah",
+    "Actors": "Pawan Kalyan, Nivetha Thomas, Anjali, Prakash Raj",
+    "Plot": "A lawyer with a troubled past fights for justice for three young women falsely accused in a high-profile case.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/9/97/Vakeel_Saab.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      }
+    ],
+    "imdbRating": "8.1",
+    "imdbVotes": "12,000",
+    "Type": "movie",
+    "BoxOffice": "₹137 crore",
+    "Production": "Sri Venkateswara Creations",
+    "Trailer": "https://www.youtube.com/watch?v=M5nYeVKy2_Y"
+  },
+  {
+    "id": 45,
+    "Title": "Saakini Daakini",
+    "Year": "2022",
+    "Rated": "UA",
+    "Released": "16 Sep 2022",
+    "Runtime": "118 min",
+    "Genre": "Action, Comedy, Thriller",
+    "Director": "Sudheer Varma",
+    "Writer": "Akshay Poolla",
+    "Actors": "Regina Cassandra, Nivetha Thomas",
+    "Plot": "Two young female police trainees get caught up in a dangerous situation and must fight to survive while uncovering a criminal conspiracy.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOHqiK-6YfajDHdQaIHf7ebxT44OMsd12w8g1K9mLG9Q&s&ec=72940544",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      }
+    ],
+    "imdbRating": "6.2",
+    "imdbVotes": "3,500",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Suresh Productions",
+    "Trailer": "https://www.youtube.com/watch?v=RQorvwx9sLw"
+  },
+  {
+    "id": 46,
+    "Title": "Rebel",
+    "Year": "2012",
+    "Rated": "UA",
+    "Released": "28 Sep 2012",
+    "Runtime": "168 min",
+    "Genre": "Action, Thriller",
+    "Director": "Raghava Lawrence",
+    "Writer": "Raghava Lawrence",
+    "Actors": "Prabhas, Tamannaah Bhatia, Deeksha Seth, Krishnam Raju",
+    "Plot": "A young man turns into a ruthless vigilante after his family is murdered by a notorious gangster.",
+    "Language": "Telugu",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://xstreamcp-assets-msp.streamready.in/assets/SUNNXT/MOVIE/661fb683ad1aa635840523ac/images/1000x1500_RebelTelugu_60584_9a6d2303-afcf-4fe4-88ad-e033e73d385c.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.6/10"
+      }
+    ],
+    "imdbRating": "4.6",
+    "imdbVotes": "5,200",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Sri Balaji Cine Media",
+    "Trailer": "https://www.youtube.com/watch?v=Pt8AIDZln1k"
+  },
+  {
+    "id": 47,
+    "Title": "UI",
+    "Year": "2024",
+    "Rated": "UA",
+    "Released": "20 Dec 2024",
+    "Runtime": "132 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Upendra",
+    "Writer": "Upendra",
+    "Actors": "Upendra, Reeshma Nanaiah, Murali Sharma, Nidhi Subbaiah",
+    "Plot": "Set in a dystopian world, 'UI' explores the psychological conflict between Sathya and Kalki, delving into the consequences of misusing power, knowledge, and technology, leading to humanity's and Earth's destruction.",
+    "Language": "Kannada",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://static.toiimg.com/photo/116498001.cms?imgsize=15852",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      }
+    ],
+    "imdbRating": "8.3",
+    "imdbVotes": "35,300",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "Lahari Films, Venus Entertainers",
+    "Trailer": "https://www.youtube.com/watch?v=0-X5KC_TKmA"
+  },
+  {
+    "id": 48,
+    "Title": "The Ghazi Attack",
+    "Year": "2017",
+    "Rated": "UA",
+    "Released": "17 Feb 2017",
+    "Runtime": "123 min",
+    "Genre": "Action, Drama, History",
+    "Director": "Sankalp Reddy",
+    "Writer": "Sankalp Reddy, Niranjan Reddy, Gunnam Gangaraju",
+    "Actors": "Rana Daggubati, Kay Kay Menon, Atul Kulkarni, Taapsee Pannu",
+    "Plot": "A classified mission by the Indian Navy to foil a possible attack by Pakistan's submarine PNS Ghazi during the 1971 Indo-Pak war.",
+    "Language": "Telugu, Hindi",
+    "Country": "India",
+    "Awards": "National Film Award for Best Feature Film in Telugu",
+    "Poster": "https://m.media-amazon.com/images/I/81khAWeOArL._AC_UF1000,1000_QL80_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      }
+    ],
+    "imdbRating": "7.5",
+    "imdbVotes": "21,000",
+    "Type": "movie",
+    "BoxOffice": "N/A",
+    "Production": "PVP Cinema, Matinee Entertainment",
+    "Trailer": "https://www.youtube.com/watch?v=XyJjYJd-NK4"
+  }
+]
