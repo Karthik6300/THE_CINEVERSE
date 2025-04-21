@@ -108,7 +108,7 @@ function displayMovieDetails(movie) {
 
 // Navigate back to main page
 function goBack() {
-  window.location.href = "index.html";
+  window.location.href = "home.html";
 }
 
 // Initialize the page
