@@ -311,7 +311,7 @@ function displayMovies(movies, searchTerm = "") {
 
 // Search movies
 function searchMovies() {
-  const searchTerm = searchInput.value.trim().toLowerCase();
+  const searchTerm = searchInput.value.trim();
 
   if (searchTerm === "") {
     displayMovies(allMovies);
@@ -320,15 +320,15 @@ function searchMovies() {
 
   const filteredMovies = allMovies.filter(
     (movie) =>
-      movie.Title.toLowerCase().includes(searchTerm) ||
-      movie.Director.toLowerCase().includes(searchTerm) ||
+      movie.Title.includes(searchTerm) ||
+      movie.Director.includes(searchTerm) ||
       (movie.Description &&
-        movie.Description.toLowerCase().includes(searchTerm))
+        movie.Description.includes(searchTerm))
   );
 
   filteredMovies.sort((a, b) => {
-    const aTitle = a.title.toLowerCase();
-    const bTitle = b.title.toLowerCase();
+    const aTitle = a.Title.toLowerCase();
+    const bTitle = b.Title.toLowerCase();
 
     const aContains = aTitle.includes(searchTerm);
     const bContains = bTitle.includes(searchTerm);
@@ -348,6 +348,7 @@ searchInput.addEventListener("keyup", (event) => {
     searchMovies();
   }
 });
+
 
 // Initialize
 async function init() {
