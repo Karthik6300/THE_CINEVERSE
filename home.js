@@ -7,9 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
       pause: "hover",
     });
   }
-
   let moviesData;
-
   fetch("./Movies-data.json")
     .then((response) => {
       if (!response.ok) {
@@ -322,8 +320,7 @@ function searchMovies() {
     (movie) =>
       movie.Title.includes(searchTerm) ||
       movie.Director.includes(searchTerm) ||
-      (movie.Description &&
-        movie.Description.includes(searchTerm))
+      (movie.Description && movie.Description.includes(searchTerm))
   );
 
   filteredMovies.sort((a, b) => {
@@ -348,7 +345,6 @@ searchInput.addEventListener("keyup", (event) => {
     searchMovies();
   }
 });
-
 
 // Initialize
 async function init() {
